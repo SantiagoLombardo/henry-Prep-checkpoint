@@ -1,0 +1,24 @@
+div {
+    background-color: yellow;
+    height: 500px;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    
+    
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%; 
+}
+  
+  ul{
+    color: red;
+    font-size: 25px;
+  }
+    
+ a:visited {
+    color: green;
+  }
